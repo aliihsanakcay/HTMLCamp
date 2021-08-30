@@ -7,4 +7,5 @@ Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olara
 - Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
 - Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın. 
 
+**Örnek:**
 ![Second Web Page](https://github.com/aliihsanakcay/HTMLCamp/blob/main/assignment2/images/secondwebpage.png)
